@@ -1,0 +1,244 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Project 1",
+      "status": "Completed",
+      "tasksCount": 9,
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Task 1",
+          "description": "Description for Task 1",
+          "implementer": "Alisa S.",
+          "status": "To do",
+          "deadline": "023-09-05"
+        },
+        {
+          "id": "2",
+          "name": "Task 2",
+          "description": "Description for Task 2",
+          "implementer": "Alisa S.",
+          "status": "To do",
+          "deadline": "023-09-05"
+        },
+        {
+          "id": "4a9203b7-7ec2-4a8f-abdf-50d2c0fedb2f",
+          "name": "Task 3",
+          "description": "",
+          "implementer": "Julia K.",
+          "deadline": "2025-04-17",
+          "status": "In Progress",
+          "createdAt": "2025-04-16T12:35:25.638Z"
+        },
+        {
+          "id": "d288f4d3-2807-4bb5-9453-d106ce7b503f",
+          "name": "Task 4",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-25",
+          "status": "In Progres",
+          "createdAt": "2025-04-16T12:37:12.683Z"
+        },
+        {
+          "id": "465f28ee-b50f-4d3c-835f-5b85a56bd894",
+          "name": "TAsk 4",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-01",
+          "status": "To Do",
+          "createdAt": "2025-04-16T12:38:08.414Z"
+        },
+        {
+          "id": "49737560-3ed1-4fa2-a869-91c3d8eb128f",
+          "name": "Task 4",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-18",
+          "status": "To Do",
+          "createdAt": "2025-04-16T12:38:33.019Z"
+        },
+        {
+          "id": "abda994d-103c-45e8-ba8f-9cad517a0a5f",
+          "name": "Task 4",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-26",
+          "status": "In Progress",
+          "createdAt": "2025-04-16T12:38:59.954Z"
+        },
+        {
+          "id": "c75f523a-6685-49f2-b64c-16e03c1b6a6b",
+          "name": "Task 5",
+          "description": "",
+          "implementer": "Nikita L.",
+          "deadline": "2025-04-11",
+          "status": "To do",
+          "createdAt": "2025-04-16T12:49:23.521Z"
+        },
+        {
+          "id": "5ebf521f-6e4a-46bb-a0e1-922614008771",
+          "name": "Task 6",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-04",
+          "status": "To do",
+          "createdAt": "2025-04-16T12:50:46.991Z"
+        }
+      ],
+      "createdAt": "2023-09-01"
+    },
+    {
+      "id": "2",
+      "name": "Project 2",
+      "status": "Active",
+      "tasksCount": 7,
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Task 1",
+          "description": "Description for Task 1",
+          "implementer": "Alisa S.",
+          "status": "In Progress",
+          "deadline": "023-09-05"
+        },
+        {
+          "id": "2",
+          "name": "Task 2",
+          "description": "Description for Task 2",
+          "implementer": "Alisa S.",
+          "status": "To do",
+          "deadline": "023-09-05"
+        },
+        {
+          "name": "Task 3",
+          "description": "",
+          "implementer": "Nikita L.",
+          "deadline": "2025-04-17",
+          "status": "Done",
+          "createdAt": "2025-04-16T12:29:32.678Z"
+        },
+        {
+          "id": "6b8321c1-c902-44a3-a19f-f98352cac563",
+          "name": "Task 4",
+          "description": "",
+          "implementer": "Julia K.",
+          "deadline": "2025-04-18",
+          "status": "To do",
+          "createdAt": "2025-04-16T12:51:16.495Z"
+        },
+        {
+          "id": "79ad81b3-bc38-4288-bfdf-cb4e691e3617",
+          "name": "Task 5",
+          "description": "",
+          "implementer": "Nikita L.",
+          "deadline": "2025-04-26",
+          "status": "Done",
+          "createdAt": "2025-04-16T12:53:47.167Z"
+        },
+        {
+          "id": "f23d49e8-5549-4ac5-bd4c-167216c08d3f",
+          "name": "Task 6",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-25",
+          "status": "Done",
+          "createdAt": "2025-04-16T12:56:23.967Z"
+        },
+        {
+          "id": "1ad15710-4dd1-4193-8acd-d1f581364b15",
+          "name": "Task 7",
+          "description": "",
+          "implementer": "Julia K.",
+          "deadline": "2025-04-26",
+          "status": "In Progress",
+          "createdAt": "2025-04-16T12:57:16.630Z"
+        },
+        {
+          "id": "86d6a52b-570f-479c-8a18-09485c014e74",
+          "name": "Task 8",
+          "description": "",
+          "implementer": "Nikita L.",
+          "deadline": "2025-04-11",
+          "status": "In Progress",
+          "createdAt": "2025-04-16T12:58:54.203Z"
+        }
+      ],
+      "createdAt": "2023-09-01"
+    },
+    {
+      "id": "58f3adf0-9dca-489e-88c7-13a90328a051",
+      "name": "Project 3",
+      "description": "",
+      "tasksCount": 2,
+      "tasks": [
+        {
+          "id": "ee336b9f-bad2-4185-9d57-27de054b89c9",
+          "name": "Task 1",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-19",
+          "status": "Done",
+          "createdAt": "2025-04-17T05:44:56.453Z"
+        },
+        {
+          "id": "0dc170bc-f44e-4426-a34b-ad74f9136216",
+          "name": "Task 2",
+          "description": "",
+          "implementer": "Nikita L.",
+          "deadline": "2025-04-26",
+          "status": "In progress",
+          "createdAt": "2025-04-17T05:46:26.652Z"
+        }
+      ],
+      "status": "Active",
+      "createdAt": "2025-04-15T08:18:38.531Z"
+    },
+    {
+      "id": "7c297076-822d-43ed-8875-a1e1222c9959",
+      "name": "New Project",
+      "description": "",
+      "tasksCount": 0,
+      "task": [],
+      "status": "Active",
+      "createdAt": "2025-04-15T08:18:38.531Z"
+    },
+    {
+      "id": "39713893-4874-4358-9a37-e6aa3bef3d45",
+      "name": "My Project",
+      "description": "",
+      "tasksCount": 0,
+      "tasks": [],
+      "status": "Active",
+      "createdAt": "2025-04-15T08:33:07.423Z"
+    },
+    {
+      "id": "5d5cfd1e-f185-432f-a192-d261a70693cf",
+      "name": "cramble",
+      "description": "kukkkes",
+      "tasksCount": 0,
+      "task": [],
+      "status": "Active",
+      "createdAt": "2025-04-15T08:43:30.226Z"
+    },
+    {
+      "id": "b1e391ba-8d56-4b16-b1af-d0472716ea71",
+      "name": "Bakery",
+      "description": "",
+      "tasksCount": 1,
+      "tasks": [
+        {
+          "id": "8e37b76f-08ca-46d1-8833-568dc3b29189",
+          "name": "First Task",
+          "description": "",
+          "implementer": "Alisa S.",
+          "deadline": "2025-04-19",
+          "status": "To do",
+          "createdAt": "2025-04-16T13:00:30.971Z"
+        }
+      ],
+      "status": "Active",
+      "createdAt": "2025-04-16T13:00:17.928Z"
+    }
+  ]
+}

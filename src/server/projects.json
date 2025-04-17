@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "name": "Project 1",
+      "status": "Active",
+      "tasksCount": 2,
+      "createdAt": "2023-09-01"
+    },
+    {
+      "id": "2",
+      "name": "Project 2",
+      "status": "Active",
+      "tasksCount": 1,
+      "createdAt": "2023-09-01"
+    }
+  ]
+  
